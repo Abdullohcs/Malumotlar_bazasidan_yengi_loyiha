@@ -1,0 +1,2 @@
+# Malumotlar_bazasidan_yengi_loyiha
+Tezkor chaqiruv call markazlarini malumotlar bazasini yaratish
